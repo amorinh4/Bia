@@ -2,7 +2,7 @@ body{
     background-color: #FFE4E1
 }
 h1{SULMANG
-color:aqua
+color:
 font-family:justify;
 background: 
 Text-align:center;
@@ -12,6 +12,6 @@ p{
     color:black;
     font-family:justify;
     font-size:30px;
-    background:
+    background:aqua
     text-align: center;
 }
